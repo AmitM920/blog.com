@@ -6,7 +6,7 @@ function Articles(props) {
   };
   return (
     <>
-    <div class= "post">
+    <div className= "post">
       {/* [plugin:vite:react-babel] C:\Users\Asus\Downloads\js\react\blog.com\src\components\Articles.jsx: Unexpected token (5:21)     <div>Articles</div> */}
       {/* <h1 style="color:red;">Articles</h1>  wrong css syntax */}
       <h1 style={{ color: "red" }}>Articles</h1>
